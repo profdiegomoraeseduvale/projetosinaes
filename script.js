@@ -1,0 +1,1 @@
+// JavaScript será preenchido com lógica completa de cálculo e PDF
